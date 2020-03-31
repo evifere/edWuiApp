@@ -1,11 +1,11 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "HelloCordova",
-  "short_name": "HelloCordova",
+  "name": "EdWui",
+  "short_name": "EdWui",
   "version": "io.cordova.hellocordova",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "author": "Apache Cordova Team",
+  "description": "An Educational memory app.",
+  "author": "Nicolas JOLLY",
   "icons": [],
   "start_url": "index.html"
 }
